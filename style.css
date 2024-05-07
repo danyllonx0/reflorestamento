@@ -46,29 +46,29 @@ body {
     padding: 24px 0;
 }
 
-.produtos{
+.natureza{
     padding: 24px 0;
 }
-.produtos-imagem{
+.natureza-imagem{
     width: 120px;
 }
 
-.produtos-icone{
+.natureza-icone{
     width: 24px;
     padding: 4px 8px;
 }
 
-.produtos-div{
+.natureza-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.produtos-titulo{
+.natureza-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.produtos-todos{
+.natureza-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
